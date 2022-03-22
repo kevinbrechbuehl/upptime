@@ -3,8 +3,26 @@ owner: kevinbrechbuehl # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: ctor.io
+  - name: kevinbrechbuehl.ch
+    url: https://kevinbrechbuehl.ch
+  - name: kevinbrechbuehl.com
+    url: https://kevinbrechbuehl.com
+  - name: aquasonic.ch
+    url: https://aquasonic.ch
+  - name: Blog
     url: https://ctor.io
+  - name: My Fuel
+    url: https://myfuel.ctor.io
+  - name: My Home
+    url: https://myhome.ctor.io
+  - name: Coiffeur Cocoon
+    url: https://www.coiffeur-cocoon.ch
+  - name: Coiffeur Cocoon Api
+    url: https://api.coiffeur-cocoon.ch
+    expectedStatusCodes:
+      - 403
+  - name: Coiffeur Cocoon Booking
+    url: https://my.calenso.com/book/coiffeur-cocoon
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
