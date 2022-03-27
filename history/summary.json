@@ -130,19 +130,19 @@
     "url": "https://api.coiffeur-cocoon.ch",
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 714,
-    "timeWeek": 556,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 569,
+    "timeDay": 686,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-03-27": 0
+      "2022-03-27": 22
     }
   },
   {
