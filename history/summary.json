@@ -4,27 +4,29 @@
     "url": "https://kevinbrechbuehl.ch",
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.ch",
     "slug": "kevinbrechbuehl-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 812,
     "timeDay": 588,
     "timeWeek": 827,
     "timeMonth": 812,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 1
+    }
   },
   {
     "name": "kevinbrechbuehl.com",
     "url": "https://kevinbrechbuehl.com",
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.com",
     "slug": "kevinbrechbuehl-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 724,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "aquasonic.ch",
@@ -131,14 +135,14 @@
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 564,
     "timeDay": 378,
-    "timeWeek": 570,
+    "timeWeek": 558,
     "timeMonth": 564,
     "timeYear": 564,
     "dailyMinutesDown": {
