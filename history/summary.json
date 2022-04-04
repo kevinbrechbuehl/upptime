@@ -96,19 +96,19 @@
     "url": "https://myhome.ctor.io",
     "icon": "https://favicons.githubusercontent.com/myhome.ctor.io",
     "slug": "my-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 187,
-    "timeWeek": 107,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 108,
+    "timeDay": 114,
+    "timeWeek": 99,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2022-04-04": 0
+      "2022-04-04": 12
     }
   },
   {
