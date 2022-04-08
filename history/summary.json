@@ -114,9 +114,9 @@
     "url": "https://www.coiffeur-cocoon.ch",
     "icon": "https://favicons.githubusercontent.com/www.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,25 +125,28 @@
     "timeWeek": 864,
     "timeMonth": 860,
     "timeYear": 860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 0
+    }
   },
   {
     "name": "Coiffeur Cocoon Api",
     "url": "https://api.coiffeur-cocoon.ch",
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 585,
     "timeDay": 658,
     "timeWeek": 573,
     "timeMonth": 585,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2022-04-08": 0,
       "2022-03-27": 22
     }
   },
