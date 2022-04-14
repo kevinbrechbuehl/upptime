@@ -4,10 +4,10 @@
     "url": "https://kevinbrechbuehl.ch",
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.ch",
     "slug": "kevinbrechbuehl-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1819,
@@ -15,17 +15,19 @@
     "timeWeek": 796,
     "timeMonth": 1819,
     "timeYear": 1819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "kevinbrechbuehl.com",
     "url": "https://kevinbrechbuehl.com",
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.com",
     "slug": "kevinbrechbuehl-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 730,
@@ -34,6 +36,7 @@
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-04-03": 19
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://aquasonic.ch",
     "icon": "https://favicons.githubusercontent.com/aquasonic.ch",
     "slug": "aquasonic-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 797,
     "timeMonth": 1308,
     "timeYear": 1308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://ctor.io",
     "icon": "https://favicons.githubusercontent.com/ctor.io",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 200,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "My Fuel",
@@ -96,9 +103,9 @@
     "url": "https://myhome.ctor.io",
     "icon": "https://favicons.githubusercontent.com/myhome.ctor.io",
     "slug": "my-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +114,9 @@
     "timeWeek": 519,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Coiffeur Cocoon",
@@ -135,11 +144,11 @@
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 564,
     "timeDay": 676,
     "timeWeek": 524,
