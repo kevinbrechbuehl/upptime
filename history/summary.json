@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1678,
-    "timeDay": 829,
-    "timeWeek": 732,
-    "timeMonth": 1678,
-    "timeYear": 1678,
+    "time": 1659,
+    "timeDay": 1082,
+    "timeWeek": 787,
+    "timeMonth": 1659,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2022-04-14": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.com",
     "slug": "kevinbrechbuehl-com",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 727,
-    "timeDay": 684,
-    "timeWeek": 712,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 732,
+    "timeDay": 888,
+    "timeWeek": 752,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-04-03": 19
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1231,
-    "timeDay": 671,
-    "timeWeek": 736,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "time": 1222,
+    "timeDay": 921,
+    "timeWeek": 783,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2022-04-14": 19
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 231,
-    "timeDay": 388,
+    "time": 225,
+    "timeDay": 48,
     "timeWeek": 108,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 365,
-    "timeDay": 187,
-    "timeWeek": 343,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "time": 355,
+    "timeDay": 49,
+    "timeWeek": 342,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2022-04-14": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 250,
-    "timeDay": 1615,
-    "timeWeek": 475,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 243,
+    "timeDay": 44,
+    "timeWeek": 465,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 824,
-    "timeDay": 763,
-    "timeWeek": 771,
-    "timeMonth": 824,
-    "timeYear": 824,
+    "time": 829,
+    "timeDay": 976,
+    "timeWeek": 818,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2022-04-08": 18
     }
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 562,
-    "timeDay": 517,
-    "timeWeek": 514,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 567,
+    "timeDay": 722,
+    "timeWeek": 550,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2022-04-08": 18,
       "2022-03-27": 22
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 1212,
-    "timeWeek": 1036,
-    "timeMonth": 1054,
-    "timeYear": 1054,
+    "time": 1075,
+    "timeDay": 1659,
+    "timeWeek": 1173,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   }
 ]
