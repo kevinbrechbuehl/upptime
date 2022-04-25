@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1515,
-    "timeDay": 902,
-    "timeWeek": 791,
-    "timeMonth": 1593,
-    "timeYear": 1515,
+    "time": 1498,
+    "timeDay": 851,
+    "timeWeek": 758,
+    "timeMonth": 1601,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2022-04-14": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 721,
-    "timeDay": 846,
-    "timeWeek": 694,
-    "timeMonth": 718,
-    "timeYear": 721,
+    "time": 724,
+    "timeDay": 858,
+    "timeWeek": 690,
+    "timeMonth": 729,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-04-03": 19
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1147,
+    "time": 1141,
     "timeDay": 900,
-    "timeWeek": 762,
-    "timeMonth": 1193,
-    "timeYear": 1147,
+    "timeWeek": 759,
+    "timeMonth": 1204,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2022-04-14": 19
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 246,
-    "timeDay": 268,
-    "timeWeek": 308,
+    "time": 241,
+    "timeDay": 53,
+    "timeWeek": 309,
     "timeMonth": 234,
-    "timeYear": 246,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 408,
-    "timeDay": 36,
-    "timeWeek": 586,
+    "time": 400,
+    "timeDay": 99,
+    "timeWeek": 593,
     "timeMonth": 431,
-    "timeYear": 408,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-04-14": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 221,
-    "timeDay": 119,
-    "timeWeek": 94,
+    "time": 216,
+    "timeDay": 45,
+    "timeWeek": 95,
     "timeMonth": 228,
-    "timeYear": 221,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 827,
-    "timeDay": 1022,
-    "timeWeek": 838,
-    "timeMonth": 821,
-    "timeYear": 827,
+    "time": 835,
+    "timeDay": 1134,
+    "timeWeek": 858,
+    "timeMonth": 839,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2022-04-08": 18
     }
@@ -146,16 +146,16 @@
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 571,
-    "timeDay": 706,
+    "uptimeYear": "99.92%",
+    "time": 575,
+    "timeDay": 718,
     "timeWeek": 607,
-    "timeMonth": 572,
-    "timeYear": 571,
+    "timeMonth": 580,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2022-04-08": 18,
       "2022-03-27": 22
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 1317,
-    "timeWeek": 1209,
-    "timeMonth": 1091,
-    "timeYear": 1085,
+    "time": 1096,
+    "timeDay": 1473,
+    "timeWeek": 1182,
+    "timeMonth": 1113,
+    "timeYear": 1096,
     "dailyMinutesDown": {}
   }
 ]
