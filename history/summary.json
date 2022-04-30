@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1428,
-    "timeDay": 695,
-    "timeWeek": 774,
-    "timeMonth": 1582,
-    "timeYear": 1428,
+    "time": 1409,
+    "timeDay": 581,
+    "timeWeek": 764,
+    "timeMonth": 1572,
+    "timeYear": 1409,
     "dailyMinutesDown": {
       "2022-04-14": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 725,
-    "timeDay": 719,
-    "timeWeek": 759,
-    "timeMonth": 724,
-    "timeYear": 725,
+    "time": 720,
+    "timeDay": 486,
+    "timeWeek": 731,
+    "timeMonth": 713,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-04-03": 19
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/aquasonic.ch",
     "slug": "aquasonic-ch",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1103,
-    "timeDay": 738,
-    "timeWeek": 770,
-    "timeMonth": 1186,
-    "timeYear": 1103,
+    "uptimeYear": "99.97%",
+    "time": 1092,
+    "timeDay": 580,
+    "timeWeek": 757,
+    "timeMonth": 1173,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2022-04-14": 19
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 246,
-    "timeDay": 263,
-    "timeWeek": 254,
-    "timeMonth": 257,
-    "timeYear": 246,
+    "time": 242,
+    "timeDay": 85,
+    "timeWeek": 226,
+    "timeMonth": 259,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 417,
-    "timeDay": 157,
-    "timeWeek": 375,
-    "timeMonth": 442,
-    "timeYear": 417,
+    "time": 439,
+    "timeDay": 1343,
+    "timeWeek": 539,
+    "timeMonth": 480,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2022-04-14": 18
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 212,
-    "timeDay": 186,
-    "timeWeek": 153,
-    "timeMonth": 238,
-    "timeYear": 212,
+    "time": 243,
+    "timeDay": 1549,
+    "timeWeek": 343,
+    "timeMonth": 281,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 834,
-    "timeDay": 764,
-    "timeWeek": 892,
-    "timeMonth": 828,
-    "timeYear": 834,
+    "time": 828,
+    "timeDay": 556,
+    "timeWeek": 862,
+    "timeMonth": 815,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2022-04-08": 18
     }
@@ -146,16 +146,16 @@
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.92%",
-    "time": 573,
-    "timeDay": 505,
-    "timeWeek": 589,
-    "timeMonth": 567,
-    "timeYear": 573,
+    "uptimeYear": "99.93%",
+    "time": 570,
+    "timeDay": 463,
+    "timeWeek": 583,
+    "timeMonth": 560,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-04-08": 18,
       "2022-03-27": 22
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 1167,
-    "timeWeek": 1295,
-    "timeMonth": 1132,
-    "timeYear": 1117,
+    "time": 1112,
+    "timeDay": 905,
+    "timeWeek": 1273,
+    "timeMonth": 1122,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   }
 ]
