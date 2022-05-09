@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1329,
-    "timeDay": 1059,
-    "timeWeek": 897,
-    "timeMonth": 792,
-    "timeYear": 1329,
+    "time": 1325,
+    "timeDay": 1112,
+    "timeWeek": 964,
+    "timeMonth": 794,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2022-04-14": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 723,
-    "timeDay": 897,
-    "timeWeek": 719,
-    "timeMonth": 716,
-    "timeYear": 723,
+    "time": 726,
+    "timeDay": 893,
+    "timeWeek": 775,
+    "timeMonth": 715,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-04-03": 19
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1049,
-    "timeDay": 843,
-    "timeWeek": 804,
-    "timeMonth": 764,
-    "timeYear": 1049,
+    "time": 1045,
+    "timeDay": 844,
+    "timeWeek": 841,
+    "timeMonth": 758,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2022-04-14": 19
     }
@@ -66,16 +66,16 @@
     "icon": "https://favicons.githubusercontent.com/ctor.io",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
-    "time": 223,
-    "timeDay": 145,
-    "timeWeek": 147,
+    "uptimeYear": "99.95%",
+    "time": 220,
+    "timeDay": 48,
+    "timeWeek": 139,
     "timeMonth": 176,
-    "timeYear": 223,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 418,
-    "timeDay": 116,
-    "timeWeek": 335,
-    "timeMonth": 425,
-    "timeYear": 418,
+    "time": 411,
+    "timeDay": 85,
+    "timeWeek": 336,
+    "timeMonth": 426,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2022-04-14": 18
     }
@@ -106,16 +106,16 @@
     "icon": "https://favicons.githubusercontent.com/myhome.ctor.io",
     "slug": "my-home",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
-    "time": 224,
-    "timeDay": 91,
-    "timeWeek": 120,
+    "uptimeYear": "99.95%",
+    "time": 221,
+    "timeDay": 102,
+    "timeWeek": 125,
     "timeMonth": 302,
-    "timeYear": 224,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2022-04-14": 37
     }
@@ -129,13 +129,13 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 834,
-    "timeDay": 1037,
-    "timeWeek": 848,
-    "timeMonth": 819,
-    "timeYear": 834,
+    "time": 837,
+    "timeDay": 978,
+    "timeWeek": 908,
+    "timeMonth": 826,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2022-04-08": 18
     }
@@ -149,13 +149,13 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 570,
-    "timeDay": 652,
-    "timeWeek": 553,
-    "timeMonth": 560,
-    "timeYear": 570,
+    "time": 571,
+    "timeDay": 656,
+    "timeWeek": 593,
+    "timeMonth": 561,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2022-04-08": 18,
       "2022-03-27": 22
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1337,
-    "timeWeek": 1005,
-    "timeMonth": 1130,
-    "timeYear": 1103,
+    "time": 1108,
+    "timeDay": 1383,
+    "timeWeek": 1062,
+    "timeMonth": 1132,
+    "timeYear": 1108,
     "dailyMinutesDown": {}
   }
 ]
