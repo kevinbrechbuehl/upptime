@@ -68,10 +68,10 @@
     "url": "https://ctor.io",
     "icon": "https://favicons.githubusercontent.com/ctor.io",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 213,
@@ -80,6 +80,7 @@
     "timeMonth": 197,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-04-14": 37
     }
   },
@@ -88,9 +89,9 @@
     "url": "https://myfuel.ctor.io",
     "icon": "https://favicons.githubusercontent.com/myfuel.ctor.io",
     "slug": "my-fuel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -100,6 +101,7 @@
     "timeMonth": 397,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-14": 18
     }
   },
