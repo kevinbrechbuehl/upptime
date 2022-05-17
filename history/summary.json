@@ -110,9 +110,9 @@
     "url": "https://myhome.ctor.io",
     "icon": "https://favicons.githubusercontent.com/myhome.ctor.io",
     "slug": "my-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -122,6 +122,7 @@
     "timeMonth": 221,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-14": 37
     }
   },
