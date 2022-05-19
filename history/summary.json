@@ -4,9 +4,9 @@
     "url": "https://kevinbrechbuehl.ch",
     "icon": "https://favicons.githubusercontent.com/kevinbrechbuehl.ch",
     "slug": "kevinbrechbuehl-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 872,
     "timeYear": 1249,
     "dailyMinutesDown": {
+      "2022-05-19": 1,
       "2022-05-15": 69,
       "2022-04-14": 20
     }
@@ -69,18 +70,17 @@
     "icon": "https://favicons.githubusercontent.com/ctor.io",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.94%",
     "time": 211,
     "timeDay": 194,
     "timeWeek": 160,
     "timeMonth": 164,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-05-19": 8,
       "2022-05-17": 15,
       "2022-04-14": 37
     }
