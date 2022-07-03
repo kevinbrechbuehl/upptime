@@ -89,9 +89,9 @@
     "url": "https://myfuel.ctor.io",
     "icon": "https://favicons.githubusercontent.com/myfuel.ctor.io",
     "slug": "my-fuel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -101,6 +101,7 @@
     "timeMonth": 200,
     "timeYear": 320,
     "dailyMinutesDown": {
+      "2022-07-03": 0,
       "2022-05-17": 15,
       "2022-04-14": 18
     }
@@ -151,18 +152,17 @@
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 557,
     "timeDay": 684,
     "timeWeek": 647,
     "timeMonth": 543,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-07-03": 8,
       "2022-05-25": 51,
       "2022-04-08": 18,
       "2022-03-27": 22
@@ -174,18 +174,16 @@
     "icon": "https://favicons.githubusercontent.com/my.calenso.com",
     "slug": "coiffeur-cocoon-booking",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1098,
     "timeDay": 971,
     "timeWeek": 1133,
     "timeMonth": 1012,
     "timeYear": 1098,
-    "dailyMinutesDown": {
-      "2022-07-03": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
