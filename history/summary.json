@@ -172,17 +172,19 @@
     "url": "https://my.calenso.com/book/coiffeur-cocoon",
     "icon": "https://favicons.githubusercontent.com/my.calenso.com",
     "slug": "coiffeur-cocoon-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 957,
-    "timeWeek": 947,
-    "timeMonth": 1057,
-    "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "time": 1079,
+    "timeDay": 585,
+    "timeWeek": 855,
+    "timeMonth": 1032,
+    "timeYear": 1079,
+    "dailyMinutesDown": {
+      "2022-07-22": 0
+    }
   }
 ]
