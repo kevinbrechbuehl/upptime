@@ -70,9 +70,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 224,
     "timeDay": 139,
@@ -80,7 +80,6 @@
     "timeMonth": 227,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-08-08": 12,
       "2022-05-17": 15,
       "2022-04-14": 37
     }
@@ -92,17 +91,16 @@
     "slug": "my-fuel",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 330,
-    "timeDay": 897,
+    "timeDay": 129,
     "timeWeek": 469,
     "timeMonth": 333,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2022-08-08": 12,
       "2022-05-17": 15,
       "2022-04-14": 18
     }
@@ -119,7 +117,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 335,
-    "timeDay": 1145,
+    "timeDay": 90,
     "timeWeek": 591,
     "timeMonth": 372,
     "timeYear": 335,
@@ -152,9 +150,9 @@
     "url": "https://api.coiffeur-cocoon.ch",
     "icon": "https://favicons.githubusercontent.com/api.coiffeur-cocoon.ch",
     "slug": "coiffeur-cocoon-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -164,6 +162,7 @@
     "timeMonth": 559,
     "timeYear": 556,
     "dailyMinutesDown": {
+      "2022-08-08": 0,
       "2022-05-25": 51,
       "2022-04-08": 18,
       "2022-03-27": 22
