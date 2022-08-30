@@ -68,9 +68,9 @@
     "url": "https://ctor.io",
     "icon": "https://favicons.githubusercontent.com/ctor.io",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 241,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2022-08-30": 0,
       "2022-05-17": 15,
       "2022-04-14": 37
     }
