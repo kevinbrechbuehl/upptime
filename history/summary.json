@@ -68,9 +68,9 @@
     "url": "https://ctor.io",
     "icon": "https://icons.duckduckgo.com/ip3/ctor.io.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 272,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2022-10-11": 0,
       "2022-05-17": 15,
       "2022-04-14": 37
     }
@@ -89,9 +90,9 @@
     "url": "https://myfuel.ctor.io",
     "icon": "https://icons.duckduckgo.com/ip3/myfuel.ctor.io.ico",
     "slug": "my-fuel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -101,6 +102,7 @@
     "timeMonth": 329,
     "timeYear": 347,
     "dailyMinutesDown": {
+      "2022-10-11": 0,
       "2022-09-23": 18,
       "2022-05-17": 15,
       "2022-04-14": 18
