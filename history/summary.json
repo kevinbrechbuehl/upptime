@@ -141,10 +141,10 @@
     "url": "https://www.coiffeur-cocoon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.coiffeur-cocoon.ch.ico",
     "slug": "coiffeur-cocoon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 812,
@@ -153,6 +153,7 @@
     "timeMonth": 778,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2022-12-25": 1,
       "2022-12-09": 22,
       "2022-08-12": 18,
       "2022-04-08": 18
