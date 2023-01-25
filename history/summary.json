@@ -164,19 +164,19 @@
     "url": "https://api.coiffeur-cocoon.ch",
     "icon": "https://icons.duckduckgo.com/ip3/api.coiffeur-cocoon.ch.ico",
     "slug": "coiffeur-cocoon-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 539,
     "timeDay": 404,
-    "timeWeek": 512,
-    "timeMonth": 513,
+    "timeWeek": 499,
+    "timeMonth": 510,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 7,
       "2022-12-09": 21,
       "2022-08-12": 18,
       "2022-05-25": 51,
@@ -191,9 +191,9 @@
     "slug": "coiffeur-cocoon-booking",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 999,
     "timeDay": 802,
@@ -201,7 +201,7 @@
     "timeMonth": 2334,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 8
     }
   }
 ]
