@@ -19,6 +19,7 @@ sites:
     url: https://www.coiffeur-cocoon.ch
   - name: Coiffeur Cocoon Api
     url: https://api.coiffeur-cocoon.ch
+    icon: https://www.coiffeur-cocoon.ch/favicon-32x32.png
     expectedStatusCodes:
       - 403
   - name: Coiffeur Cocoon Booking
