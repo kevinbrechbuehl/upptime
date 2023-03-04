@@ -9,6 +9,8 @@ sites:
     url: https://kevinbrechbuehl.com
   - name: aquasonic.ch
     url: https://aquasonic.ch
+  - name: Curriculum Vitae
+    url: https://cv.kevinbrechbuehl.ch
   - name: Blog
     url: https://ctor.io
   - name: My Fuel
