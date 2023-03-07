@@ -11,6 +11,8 @@ sites:
     url: https://aquasonic.ch
   - name: Curriculum Vitae
     url: https://cv.kevinbrechbuehl.ch
+    expectedStatusCodes:
+      - 401
   - name: Blog
     url: https://ctor.io
   - name: My Fuel
