@@ -12,7 +12,8 @@ sites:
   - name: Curriculum Vitae
     url: https://cv.kevinbrechbuehl.ch
     expectedStatusCodes:
-      - 401
+      - 200
+      - 302
   - name: Blog
     url: https://ctor.io
   - name: My Fuel
