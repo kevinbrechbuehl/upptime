@@ -12,8 +12,7 @@ sites:
   - name: Curriculum Vitae
     url: https://cv.kevinbrechbuehl.ch
     expectedStatusCodes:
-      - 200
-      - 302
+      - 401
   - name: Blog
     url: https://ctor.io
   - name: My Fuel
@@ -46,6 +45,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
