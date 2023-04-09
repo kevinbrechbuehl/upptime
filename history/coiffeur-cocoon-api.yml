@@ -1,7 +1,7 @@
 url: https://api.coiffeur-cocoon.ch
-status: down
-code: 200
-responseTime: 617
-lastUpdated: 2023-04-09T19:20:55.282Z
+status: up
+code: 403
+responseTime: 508
+lastUpdated: 2023-04-09T19:28:48.497Z
 startTime: Tue Mar 22 2022 20:46:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
