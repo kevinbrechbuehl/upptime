@@ -98,18 +98,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cv.kevinbrechbuehl.ch.ico",
     "slug": "curriculum-vitae",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1410,
     "timeDay": 4619,
     "timeWeek": 2649,
     "timeMonth": 1711,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2023-05-03": 7,
       "2023-03-07": 29
     }
   },
