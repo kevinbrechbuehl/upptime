@@ -134,10 +134,10 @@
     "url": "https://myfuel.ctor.io",
     "icon": "https://icons.duckduckgo.com/ip3/myfuel.ctor.io.ico",
     "slug": "my-fuel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 339,
@@ -146,6 +146,7 @@
     "timeMonth": 237,
     "timeYear": 337,
     "dailyMinutesDown": {
+      "2023-06-18": 1,
       "2022-12-15": 16,
       "2022-12-10": 16,
       "2022-11-03": 16,
@@ -259,9 +260,9 @@
     "slug": "inrison",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 545,
     "timeDay": 238,
@@ -269,7 +270,7 @@
     "timeMonth": 412,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-06-18": 0,
+      "2023-06-18": 12,
       "2023-02-24": 19,
       "2023-02-05": 15
     }
