@@ -160,18 +160,19 @@
     "url": "https://myhome.ctor.io",
     "icon": "https://icons.duckduckgo.com/ip3/myhome.ctor.io.ico",
     "slug": "my-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 317,
+    "time": 318,
     "timeDay": 229,
     "timeWeek": 567,
     "timeMonth": 338,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2023-07-29": 0,
       "2022-12-08": 36
     }
   },
