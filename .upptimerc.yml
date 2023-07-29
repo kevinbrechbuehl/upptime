@@ -13,12 +13,8 @@ sites:
     url: https://cv.kevinbrechbuehl.ch
     expectedStatusCodes:
       - 401
-  - name: Blog
-    url: https://ctor.io
   - name: My Fuel
-    url: https://myfuel.ctor.io
-  - name: My Home
-    url: https://myhome.ctor.io
+    url: https://myfuel.yunu.io
   - name: Coiffeur Cocoon
     url: https://www.coiffeur-cocoon.ch
   - name: Coiffeur Cocoon Api
