@@ -14,7 +14,7 @@ sites:
     expectedStatusCodes:
       - 401
   - name: My Fuel
-    url: https://myfuel.yunu.io
+    url: https://myfuel.yunu.ch
   - name: Coiffeur Cocoon
     url: https://www.coiffeur-cocoon.ch
   - name: Coiffeur Cocoon Api
