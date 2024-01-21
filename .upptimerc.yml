@@ -26,6 +26,12 @@ sites:
     url: https://my.calenso.com/book/coiffeur-cocoon
   - name: inrison
     url: https://www.inrison.com
+  - name: Yunu
+    url: https://yunu.ch
+  - name: Yunu Url Shortener
+    url: https://go.yunu.ch/home
+  - name: Yunu Privacy Policy
+    url: https://www.privacybee.ch/v/clrcgci7i001gwm303kpeul4z?lang=de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,7 +40,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Status Page**"
+  introTitle: '**Status Page**'
   # introMessage: n/a
   navbar:
     - title: Status
