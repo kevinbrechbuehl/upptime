@@ -184,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.inrison.com.ico",
     "slug": "inrison",
     "status": "down",
-    "uptime": "83.70%",
+    "uptime": "83.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.70%",
+    "uptimeYear": "80.55%",
     "time": 539,
     "timeDay": 376,
     "timeWeek": 319,
     "timeMonth": 419,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-04-04": 8,
+      "2024-04-04": 823,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -313,10 +313,10 @@
     "url": "https://www.privacybee.ch/v/clrcgci7i001gwm303kpeul4z?lang=de",
     "icon": "https://icons.duckduckgo.com/ip3/www.privacybee.ch.ico",
     "slug": "yunu-privacy-policy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 581,
@@ -324,6 +324,8 @@
     "timeWeek": 628,
     "timeMonth": 605,
     "timeYear": 581,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   }
 ]
