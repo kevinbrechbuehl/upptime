@@ -195,7 +195,7 @@
     "timeMonth": 419,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-04-04": 823,
+      "2024-04-04": 838,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -313,19 +313,19 @@
     "url": "https://www.privacybee.ch/v/clrcgci7i001gwm303kpeul4z?lang=de",
     "icon": "https://icons.duckduckgo.com/ip3/www.privacybee.ch.ico",
     "slug": "yunu-privacy-policy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 697,
-    "timeWeek": 628,
-    "timeMonth": 605,
-    "timeYear": 581,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 587,
+    "timeDay": 846,
+    "timeWeek": 674,
+    "timeMonth": 617,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-04-04": 1
+      "2024-04-04": 16
     }
   }
 ]
