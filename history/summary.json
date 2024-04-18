@@ -168,19 +168,19 @@
     "url": "https://my.calenso.com/book/coiffeur-cocoon",
     "icon": "https://icons.duckduckgo.com/ip3/my.calenso.com.ico",
     "slug": "coiffeur-cocoon-booking",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1479,
-    "timeDay": 6515,
-    "timeWeek": 3127,
-    "timeMonth": 3063,
+    "time": 1470,
+    "timeDay": 4960,
+    "timeWeek": 2985,
+    "timeMonth": 3026,
     "timeYear": 1514,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 18
     }
   },
   {
@@ -189,7 +189,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.inrison.com.ico",
     "slug": "inrison",
     "status": "down",
-    "uptime": "81.03%",
+    "uptime": "81.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -200,7 +200,7 @@
     "timeMonth": 312,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-04-18": 428,
+      "2024-04-18": 446,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
