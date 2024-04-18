@@ -1,7 +1,7 @@
 url: https://my.calenso.com/book/coiffeur-cocoon
-status: up
-code: 200
-responseTime: 2409
-lastUpdated: 2024-04-17T23:02:37.130Z
+status: down
+code: 500
+responseTime: 10620
+lastUpdated: 2024-04-18T07:07:39.000Z
 startTime: 2022-03-22T20:46:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
