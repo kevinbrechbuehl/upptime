@@ -24,8 +24,6 @@ sites:
       - 403
   - name: Coiffeur Cocoon Booking
     url: https://my.calenso.com/book/coiffeur-cocoon
-  - name: inrison
-    url: https://www.inrison.com
   - name: Yunu
     url: https://yunu.ch
   - name: Yunu Url Shortener
