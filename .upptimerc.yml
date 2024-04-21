@@ -23,7 +23,7 @@ sites:
     expectedStatusCodes:
       - 403
   - name: Coiffeur Cocoon Booking
-    url: https://my.calenso.com/book/coiffeur-cocoon
+    url: https://book.calenso.com/coiffeur-cocoon
   - name: Yunu
     url: https://yunu.ch
   - name: Yunu Url Shortener
