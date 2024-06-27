@@ -171,18 +171,19 @@
     "url": "https://book.calenso.com/coiffeur-cocoon",
     "icon": "https://icons.duckduckgo.com/ip3/book.calenso.com.ico",
     "slug": "coiffeur-cocoon-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1603,
+    "time": 1605,
     "timeDay": 1474,
     "timeWeek": 1311,
     "timeMonth": 1335,
     "timeYear": 1842,
     "dailyMinutesDown": {
+      "2024-06-27": 0,
       "2024-04-19": 33,
       "2024-04-18": 18
     }
