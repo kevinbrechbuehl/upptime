@@ -89,7 +89,7 @@
     "timeDay": 1859,
     "timeWeek": 1587,
     "timeMonth": 1886,
-    "timeYear": 1162,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }
@@ -104,7 +104,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.95%",
     "time": 233,
     "timeDay": 603,
     "timeWeek": 248,
@@ -129,7 +129,7 @@
     "timeDay": 698,
     "timeWeek": 715,
     "timeMonth": 821,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-04-22": 21,
       "2024-04-18": 29,
@@ -154,7 +154,7 @@
     "timeDay": 485,
     "timeWeek": 487,
     "timeMonth": 551,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2024-04-22": 20,
       "2023-11-20": 29
@@ -175,7 +175,7 @@
     "timeDay": 1195,
     "timeWeek": 1223,
     "timeMonth": 1355,
-    "timeYear": 1883,
+    "timeYear": 1886,
     "dailyMinutesDown": {
       "2024-06-27": 22,
       "2024-04-19": 33,
@@ -225,9 +225,9 @@
     "url": "https://www.privacybee.ch/v/clrcgci7i001gwm303kpeul4z?lang=de",
     "icon": "https://icons.duckduckgo.com/ip3/www.privacybee.ch.ico",
     "slug": "yunu-privacy-policy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -237,6 +237,7 @@
     "timeMonth": 1197,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2024-04-04": 16
     }
   }
