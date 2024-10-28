@@ -94,9 +94,9 @@
     "url": "https://myfuel.yunu.ch",
     "icon": "https://icons.duckduckgo.com/ip3/myfuel.yunu.ch.ico",
     "slug": "my-fuel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +106,7 @@
     "timeMonth": 230,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2024-10-28": 0,
       "2024-03-16": 15
     }
   },
